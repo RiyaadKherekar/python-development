@@ -18,5 +18,6 @@
 
 #This print function will use the len() function to calculate the length of the input string
 #print(input("What is your name?"))
-print(len("Riyaad"))
-#print(len(input("What is your name?")))
+#print(len("Riyaad"))
+#Now combine the 2
+print(len(input("What is your name?")))
